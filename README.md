@@ -21,5 +21,5 @@ If you want to see project in emulator you can run; `npx react-native run-androi
 
 # Screens
 <p align="left">
-  <span><img  width="275px" src="https://im6.ezgif.com/tmp/ezgif-6-ba119ad042fb.gif"></span>  
+  <span><img  width="275px" src="https://i.hizliresim.com/7wjlc9a.gif"></span>  
 </p>
