@@ -1,0 +1,146 @@
+[
+  {
+    "id": "0",
+    "title": "Breathe Me",
+    "artist": "Sia",
+    "album": "Color to Small One",
+    "year": 2004,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2736d915e88ca70c17d80051772"
+  },
+  {
+    "id": "1",
+    "title": "Martı",
+    "artist": "Cihan Mürtezaoğlu",
+    "album": "Ezginin Günlüğü 40 Yıllık Şarkılar",
+    "year": 2020,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67706c0000bebb61e1a7f6bca5be24f0f40ee2"
+  },
+  {
+    "id": "2",
+    "title": "İyi Kötü",
+    "artist": "Şebnem Ferah",
+    "album": "Kelimeler Yetse",
+    "year": 2003,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273997c12a33956390df8ecd1f9"
+  },
+  {
+    "id": "3",
+    "title": "La La La",
+    "artist": "Naughty Boy",
+    "album": "Hotel Cabana",
+    "year": 2013,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273f3cb91e6449463cde0b37242"
+  },
+  {
+    "id": "4",
+    "title": "Dusk Till Dawn",
+    "artist": "ZAYN, Sia",
+    "album": "(Single)",
+    "year": 2017,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27323852b7ef0ecfe29d38d97ee"
+  },
+  {
+    "id": "5",
+    "title": "Sen Banasın",
+    "artist": "Cihan Mürtezaoğlu",
+    "album": "Bitsin Bu Delilik",
+    "year": 2016,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273ac8efa047807774906331c87"
+  },
+  {
+    "id": "6",
+    "title": "Yangınlı Şiir",
+    "artist": "Emir Can İğrek",
+    "album": "Ağır Roman",
+    "year": 2018,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273740b0b4ebd2d11fd62f3f77d"
+  },
+  {
+    "id": "7",
+    "title": "Bu Gece",
+    "artist": "Sezen Aksu",
+    "album": "Sen Ağlama",
+    "year": 1984,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273689481c6d6defaacae3f6d87"
+  },
+  {
+    "id": "8",
+    "title": "Hymn for the Weekend",
+    "artist": "Coldplay",
+    "album": "A Head Full of Dreams",
+    "year": 2015,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738ff7c3580d429c8212b9a3b6"
+  },
+  {
+    "id": "9",
+    "title": "Nereye Gidiyoruz",
+    "artist": "Can Kazaz",
+    "album": "Bir Albüm",
+    "year": 2012,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d00001e02464a91a84599c3bd8ad8efa9"
+  },
+  {
+    "id": "10",
+    "title": "The One That Got Away",
+    "artist": "Katy Perry",
+    "album": "Teenage Dream",
+    "year": 2010,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273d20c38f295039520d688a888"
+  },
+  {
+    "id": "11",
+    "title": "Hello",
+    "artist": "Evanescence",
+    "album": "Fallen",
+    "year": 2003,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432"
+  },
+  {
+    "id": "12",
+    "title": "Boyalı da Saçların",
+    "artist": "Mabel Matiz",
+    "album": "Maya",
+    "year": 2018,
+    "isSoldOut": true,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273673669edc4c83a8ed2e2b20d"
+  },
+  {
+    "id": "13",
+    "title": "Six Billion",
+    "artist": "Nothing But Thieves",
+    "album": "Nothing But Thieves (Deluxe)",
+    "year": 2015,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a5d0e2622ef1b1aa973eb170"
+  },
+  {
+    "id": "14",
+    "title": "Hoşçakal",
+    "artist": "Şebnem Ferah",
+    "album": "Can Kırıkları",
+    "year": 2005,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b2738bc831f71e5573dccf745e06"
+  },
+  {
+    "id": "15",
+    "title": "Ay Şarkısı",
+    "artist": "Saian",
+    "album": "Single",
+    "year": 2020,
+    "isSoldOut": false,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273cf8b8b654a56cf7d74e1af15"
+  }
+]
